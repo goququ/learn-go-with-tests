@@ -1,3 +1,3 @@
 module github.com/goququ/learn-go-with-tests
 
-go 1.21.6
+go 1.19

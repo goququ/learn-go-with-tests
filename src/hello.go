@@ -9,7 +9,7 @@ func Hello(name string) string {
 	return fmt.Sprintf("Hello, %s!", name)
 }
 
-func main() {
-	msg := Hello("")
-	fmt.Println(msg)
-}
+// func main() {
+// 	msg := Hello("")
+// 	fmt.Println(msg)
+// }
